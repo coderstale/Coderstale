@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp2234555.jpg)](https://github.com/coderstale)
+[![MasterHead](https://wallpapercave.com/wp/wp2234615.png)](https://github.com/coderstale)
 <h1 align="center">Hi 👋, I'm Nischal</h1>
 <h3 align="center">A passionate Python developer & an Ethical Hacker from India</h3>
 
