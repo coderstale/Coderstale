@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://github.com/coderstale)
+[![MasterHead](https://drive.google.com/file/d/1B7A-QEzE-rFYT3IVmEmAUYZM8rLkOEVb/view?usp=sharing)](https://github.com/coderstale)
 
 
 
