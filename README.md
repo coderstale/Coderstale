@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstale&label=Profile%20views&color=0e75b6&style=flat" alt="coderstale" /> </p>
 
-- 🌱 I’m currently learning **Data Strutures and Algorithms**
+- 🌱 I’m currently learning **Data Strutures & Algorithms**
 
-- 💬 Ask me about **Front-end Web Development, Cybersecurity and Python Programming**
+- 💬 Ask me about **Front-end Web Development, Cybersecurity & Python Programming**
 
 - 📫 How to reach me **coderstale@gmail.com**
 
