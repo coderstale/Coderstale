@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A passionate Python developer & an Ethical Hacker from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
+<img align="right" alt="Coding" width="400" src=">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstale&label=Profile%20views&color=0e75b6&style=flat" alt="coderstale" /> </p>
+<p align="left"> <img src="" alt="coderstale" /> </p>
+[![MasterHead](https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif](https://github.com/coderstale)
+
 
 - 🌱 I’m currently learning **Data Strutures and Algorithms**
 
