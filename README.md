@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Python developer & an Ethical Hacker from India</h3>
 <img align="right" alt="Coding" width="400" src=">
 
-<p align="left"> <img src="" alt="coderstale" /> </p>
-[![MasterHead](https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif](https://github.com/coderstale)
+[![MasterHead][https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif]<https://github.com/coderstale>
 
 
 - 🌱 I’m currently learning **Data Strutures and Algorithms**
