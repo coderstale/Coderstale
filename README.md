@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **coderstale@gmail.com**
 
-- 💻 hackthebox.eu https://app.hackthebox.com/profile/347129
+- 💻 hackthebox https://app.hackthebox.com/profile/347129
 
-- 💻 tryhackme.com https://tryhackme.com/p/satyasainischal
+- 💻 tryhackme https://tryhackme.com/p/satyasainischal
  
 - ⚡ Fun fact **I think I am an Idiot**
 
