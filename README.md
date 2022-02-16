@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstale&label=Profile%20views&color=0e75b6&style=flat" alt="coderstale" /> </p>
 
 - 🔭 I’m currently working on **Object Oriented Programming in Python**
-- 
+
 - 🌱 I’m currently learning **Data Strutures & Algorithms**
 
 - 💬 Ask me about **Front-end Web Development, Cybersecurity & Python Programming**
