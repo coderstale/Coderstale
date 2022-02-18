@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstale&label=Profile%20views&color=0e75b6&style=flat" alt="coderstale" /> </p>
 
-- 🔭 I’m currently working on **Linux System Administration**
+- 🔭 I’m currently working on **Cloud Computing**
 
 - 🌱 I’m currently learning **Data Strutures & Algorithms**
 
