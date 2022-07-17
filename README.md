@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Python developer & an Ethical Hacker from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png">
+
 
 
 
