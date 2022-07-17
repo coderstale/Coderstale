@@ -18,12 +18,11 @@
 
 - 📫 How to reach me **coderstale@gmail.com**
 
-- 💻 hackthebox https://app.hackthebox.com/profile/347129
+- 💻 hackthebox: https://app.hackthebox.com/profile/347129
 
-- 💻 tryhackme https://tryhackme.com/p/satyasainischal
+- 💻 tryhackme: https://tryhackme.com/p/satyasainischal
  
-- ⚡ Fun fact **I think I am an Idiot**
-
+- ⚡ Fun fact **I own your lyfe xd**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tom_nischal_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tom_nischal_abhi" height="30" width="40" /></a>
