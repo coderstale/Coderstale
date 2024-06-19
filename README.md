@@ -44,4 +44,22 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)
-- **Description**: An advanced vulnerability sc
+- **Description**: An advanced vulnerability scanner that performs comprehensive security checks and provides detailed reports. It leverages popular tools like Nmap and integrates with Flask for the web interface.
+- **Technologies**: Python, Flask, Docker, Nmap
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/satya-sai-nischal-1894b71b6/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:coderstale@gmail.com)
+
+## Fun Stuff
+
+![Cat Image](https://i.pinimg.com/736x/39/d9/a6/39d9a6cc24bc2294bee5563a9eac3310.jpg) <!-- Optional: Add a fun GIF or meme -->
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coderstale.coderstale)
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+<!-- You can add more sections as needed -->
