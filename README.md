@@ -47,6 +47,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - **Description**: An advanced vulnerability scanner that performs comprehensive security checks and provides detailed reports. It leverages popular tools like Nmap and integrates with Flask for the web interface.
 - **Technologies**: Python, Flask, Docker, Nmap
 
+### [SwiftWeb](https://github.com/coderstale/SwiftWeb)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=python)
+![Jinja2](https://img.shields.io/badge/-Jinja2-000?&logo=python)
+![Flake8](https://img.shields.io/badge/-Flake8-000?&logo=python)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=github-actions)
+- **Description**: SwiftWeb is a lightweight and customizable web framework for building dynamic web applications. It includes features like routing, template rendering, session management, authentication, and database integration.
+- **Technologies**: Python, SQLAlchemy, Jinja2, Flake8, GitHub Actions
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/satya-sai-nischal-1894b71b6/)
