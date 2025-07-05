@@ -1,74 +1,92 @@
 # Hi there, I'm Nischal! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative solutions and exploring new technologies. Here's a little about me and what I'm working on.
+Welcome to my GitHub profile! I'm a passionate developer focused on building intelligent systems that solve real-world problems using **Machine Learning**, **Cybersecurity**, and **full-stack development**.
 
-![Profile Banner](https://i.pinimg.com/564x/e9/de/ec/e9deec7ff3325fa19263004b4b834087.jpg) <!-- Optional: Add a custom banner image -->
+![Profile Banner](https://i.pinimg.com/564x/e9/de/ec/e9deec7ff3325fa19263004b4b834087.jpg)
 
-## About Me
+---
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science.
-- 🌱 I’m currently learning Machine Learning and Web Penetration testing.
-- 👯 I’m looking to collaborate on projects based on ML or Cybersecurity.
-- 💬 Ask me about Machine learning, Cybersecurity, or web development.
-- 📫 How to reach me: coderstale@gmail.com
-- ⚡ Fun fact: I'm obsessed with cats (shh it's our hush hush secret).
+## 🚀 About Me
 
-## Technologies & Tools
+- 🎓 CS Undergrad | Geethanjali College of Engineering & Technology  
+- 🤖 Exploring Machine Learning, NLP, and LLMs  
+- 🛡️ Building tools in Cybersecurity, exploit detection, and automation  
+- 🛠️ Most recent work: GenAI apps, RL automation bots, and custom NLP pipelines  
+- 👯 Open to collaboration on ML, GenAI, Cybersec, and open-source dev  
+- 📫 Reach me at: **coderstale@gmail.com**  
+- 🐾 Fun fact: I secretly believe all problems can be solved with cats.
 
+---
+
+## 🧠 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&layout=compact&theme=radical)
-
-## Projects
-
-### [NekoTomo Discord Bot](https://github.com/coderstale/nekotomo-bot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Discord.js](https://img.shields.io/badge/-Discord.js-000?&logo=discord)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
-- **Description**: NekoTomo is a multi-purpose advanced Discord bot that role-plays as Ganyu from Genshin Impact with a cat-like personality. It includes features like moderation tools, interactive commands, auto-responses, and more.
-- **Technologies**: JavaScript, Node.js, Discord.js, Express, Heroku
-
-### [Advanced Vulnerability Scanner](https://github.com/coderstale/advanced_vulnerability_scanner)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)
-- **Description**: An advanced vulnerability scanner that performs comprehensive security checks and provides detailed reports. It leverages popular tools like Nmap and integrates with Flask for the web interface.
-- **Technologies**: Python, Flask, Docker, Nmap
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![YOLO](https://img.shields.io/badge/-YOLOv8-000?&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=openai)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)
 
-### [SwiftWeb](https://github.com/coderstale/SwiftWeb)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=python)
-![Jinja2](https://img.shields.io/badge/-Jinja2-000?&logo=python)
-![Flake8](https://img.shields.io/badge/-Flake8-000?&logo=python)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=github-actions)
-- **Description**: SwiftWeb is a lightweight and customizable web framework for building dynamic web applications. It includes features like routing, template rendering, session management, authentication, and database integration.
-- **Technologies**: Python, SQLAlchemy, Jinja2, Flake8, GitHub Actions
+---
 
-## Connect with Me
+## 📊 GitHub Stats
+
+![Nischal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&layout=compact&theme=radical)
+
+---
+
+## 🔥 Featured Projects
+
+### [💬 NekoTomo Discord Bot](https://github.com/coderstale/nekotomo-bot)
+> A roleplay-ready Discord bot (as Ganyu from Genshin Impact 🐱), equipped with moderation, interactive responses, and auto features.
+- Tech: JavaScript, Node.js, Express, Discord.js, Heroku
+
+---
+
+### [🛡️ Advanced Vulnerability Scanner](https://github.com/coderstale/advanced_vulnerability_scanner)
+> Deep vulnerability scanner using Nmap, Flask, and Docker. Generates detailed reports to support security assessments.
+- Tech: Python, Flask, Docker, Nmap
+
+---
+
+### [⚙️ SwiftWeb – Custom Web Framework](https://github.com/coderstale/SwiftWeb)
+> Lightweight and modular Python-based web framework with routing, templating, auth, and session handling.
+- Tech: Python, SQLAlchemy, Jinja2, GitHub Actions
+
+---
+
+### [🌿 Air Quality Monitor](https://github.com/coderstale/air_quality_monitor)
+> A smart IoT-based AQI prediction and classification tool using a dual-head neural network. Real-time ML inference with display output.
+- Tech: Arduino, Python, Keras, Serial, Sensors, LCD, OpenCV
+
+---
+
+### [🎣 Fisch Macro – RL Automation Bot](https://github.com/coderstale/fisch-macro)
+> A reinforcement learning + computer vision-powered macro bot for a Roblox fishing mini-game. Trains a YOLOv8 model to automate gameplay.
+- Tech: Python, YOLOv8, Torch, RL, OpenCV, ByteTrack
+
+---
+
+## 📎 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/satya-sai-nischal-1894b71b6/)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:coderstale@gmail.com)
 
-## Fun Stuff
+---
 
-![Cat Image](https://i.pinimg.com/736x/39/d9/a6/39d9a6cc24bc2294bee5563a9eac3310.jpg) <!-- Optional: Add a fun GIF or meme -->
+## 🐱 Fun Stuff
+
+![Cat Meme](https://i.pinimg.com/736x/39/d9/a6/39d9a6cc24bc2294bee5563a9eac3310.jpg)
 
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coderstale.coderstale)
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-<!-- You can add more sections as needed -->
+Thanks for stopping by! Check out my repos, star what you like ⭐, and feel free to connect or collaborate.
