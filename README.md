@@ -60,8 +60,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 ![Nischal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical)
