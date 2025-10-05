@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building int
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&layout=compact&theme=radical)
 
 ---
-![snake gif](https://raw.githubusercontent.com/coderstale/coderstale/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/coderstale/coderstale/output/dist/github-contribution-grid-snake.svg)
 
 ## 🔥 Featured Projects
 
