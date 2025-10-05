@@ -21,30 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
-<table align="center" width="100%">
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical" alt="Nischal's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&theme=radical&langs_count=8" alt="Nischal's Top Languages" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=coderstale&theme=radical&background=000000" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=coderstale&theme=radical&column=7" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📈 Contribution Graph & Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderstale&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
