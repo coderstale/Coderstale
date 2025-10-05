@@ -1,37 +1,89 @@
 # Hi there, I'm Nischal! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0891B2&width=435&lines=Passionate+ML+%26+Cybersecurity+Developer;Always+learning+and+building!;Let's+connect+and+collaborate!" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building intelligent systems that solve real-world problems using **Machine Learning**, **Cybersecurity**, and **full-stack development**.
+<p align="center">
+  <img src="https://i.pinimg.com/564x/e9/de/ec/e9deec7ff3325fa19263004b4b834087.jpg" alt="Profile Banner" width="700px" />
+</p>
 
+---
 ![Profile Banner](https://i.pinimg.com/564x/e9/de/ec/e9deec7ff3325fa19263004b4b834087.jpg)
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyasainischal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:coderstale@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+### 📊 GitHub Stats & Trophies
+<table align="center" width="100%">
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical" alt="Nischal's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&theme=radical&langs_count=8" alt="Nischal's Top Languages" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=coderstale&theme=radical&background=000000" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=coderstale&theme=radical&column=7" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 CS Undergrad | Geethanjali College of Engineering & Technology  
-- 🤖 Exploring Machine Learning, NLP, and LLMs  
-- 🛡️ Building tools in Cybersecurity, exploit detection, and automation  
-- 🛠️ Most recent work: GenAI apps, RL automation bots, and custom NLP pipelines  
-- 👯 Open to collaboration on ML, GenAI, Cybersec, and open-source dev  
-- 📫 Reach me at: **coderstale@gmail.com**  
+---
+
+### 📈 Contribution Graph & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderstale&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderstale/coderstale/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🧠 Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-000?&logo=react" />
+  <img src="https://img.shields.io/badge/-Flask-000?&logo=flask" />
+  <img src="https://img.shields.io/badge/-Docker-000?&logo=docker" />
+  <img src="https://img.shields.io/badge/-Git-000?&logo=git" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-OpenCV-000?&logo=opencv" />
+  <img src="https://img.shields.io/badge/-YOLOv8-000?&logo=openai" />
+  <img src="https://img.shields.io/badge/-LangChain-000?&logo=openai" />
+  <img src="https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 CS Undergrad | Geethanjali College of Engineering & Technology  
+- 🤖 Exploring Machine Learning, NLP, and LLMs  
+- 🛡️ Building tools in Cybersecurity, exploit detection, and automation  
+- 🛠️ Most recent work: GenAI apps, RL automation bots, and custom NLP pipelines  
+- 👯 Open to collaboration on ML, GenAI, Cybersec, and open-source dev  
+- 📫 Reach me at: **coderstale@gmail.com**  
 - 🐾 Fun fact: I secretly believe all problems can be solved with cats.
 
 ---
-
-## 🧠 Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![YOLO](https://img.shields.io/badge/-YOLOv8-000?&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=openai)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)
 
 ---
 
@@ -72,13 +124,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building int
 ### [🎣 Fisch Macro – RL Automation Bot](https://github.com/coderstale/fisch-macro)
 > A reinforcement learning + computer vision-powered macro bot for a Roblox fishing mini-game. Trains a YOLOv8 model to automate gameplay.
 - Tech: Python, YOLOv8, Torch, RL, OpenCV, ByteTrack
-
----
-
-## 📎 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/satya-sai-nischal-1894b71b6/)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:coderstale@gmail.com)
 
 ---
 
