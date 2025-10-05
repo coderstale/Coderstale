@@ -25,7 +25,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderstale&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderstale/coderstale/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
