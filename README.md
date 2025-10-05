@@ -37,16 +37,8 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building int
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical" alt="Nischal's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&theme=radical&langs_count=8" alt="Nischal's Top Languages" />
-    </td>
-  </tr>
-</table>
+![Nischal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&layout=compact&theme=radical)
 
 ---
 ![snake gif](https://raw.githubusercontent.com/coderstale/coderstale/output/dist/github-contribution-grid-snake.svg)
