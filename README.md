@@ -75,31 +75,114 @@
 
 ### [💬 NekoTomo Discord Bot](https://github.com/coderstale/nekotomo-bot)
 > A roleplay-ready Discord bot (as Ganyu from Genshin Impact 🐱), equipped with moderation, interactive responses, and auto features.
-- Tech: JavaScript, Node.js, Express, Discord.js, Heroku
+<p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
 
 ---
 
 ### [🛡️ Advanced Vulnerability Scanner](https://github.com/coderstale/advanced_vulnerability_scanner)
 > Deep vulnerability scanner using Nmap, Flask, and Docker. Generates detailed reports to support security assessments.
-- Tech: Python, Flask, Docker, Nmap
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+</p>
 
 ---
 
 ### [⚙️ SwiftWeb – Custom Web Framework](https://github.com/coderstale/SwiftWeb)
 > Lightweight and modular Python-based web framework with routing, templating, auth, and session handling.
-- Tech: Python, SQLAlchemy, Jinja2, GitHub Actions
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+    <img src="https://img.shields.io/badge/Jinja-B42B2B?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
 ---
 
 ### [🌿 Air Quality Monitor](https://github.com/coderstale/air_quality_monitor)
 > A smart IoT-based AQI prediction and classification tool using a dual-head neural network. Real-time ML inference with display output.
-- Tech: Arduino, Python, Keras, Serial, Sensors, LCD, OpenCV
+<p>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
 ---
 
 ### [🎣 Fisch Macro – RL Automation Bot](https://github.com/coderstale/fisch-macro)
 > A reinforcement learning + computer vision-powered macro bot for a Roblox fishing mini-game. Trains a YOLOv8 model to automate gameplay.
-- Tech: Python, YOLOv8, Torch, RL, OpenCV, ByteTrack
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+---
+
+### [🌊 InferFlow – Time-Aware AI Pipeline Engine](https://github.com/coderstale/InferFlow)
+> A powerful, declarative orchestration engine that introduces computational memory to AI workflows, enabling real-time meta-analysis of data and model performance.
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+</p>
+
+---
+
+### [👾 Project CoderStale – Interactive Terminal Portfolio](https://github.com/coderstale/Project-CoderStale)
+> A gamified portfolio where you must exploit misconfigurations, outsmart an AI sentinel, and capture the root flag to win.
+<p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/xterm.js-161616?style=for-the-badge&logo=xterm&logoColor=white" alt="xterm.js"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+---
+
+### [🖼️ High-Performance Image Similarity Search Engine](https://github.com/coderstale/image-similarity-search)
+> A full-stack application that finds visually similar images from a large dataset using a custom high-performance C backend and an interactive web frontend.
+<p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
+    <img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly.js"/>
+</p>
+
+---
+
+### [🎬 Java Movie Sentiment Analyzer](https://github.com/coderstale/movie-sentiment-analyzer)
+> An end-to-end application that performs sentiment analysis on movie reviews, featuring a custom-trained model and a robust Java backend for inference.
+<p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/ONNX-0059FF?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+</p>
 
 ---
 
