@@ -23,13 +23,13 @@
 
 ### 📈 Contribution Graph & Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderstale&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cattolatte&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderstale/coderstale/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/cattolatte/cattolatte/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -65,8 +65,8 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderstale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderstale&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cattolatte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattolatte&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
