@@ -73,6 +73,21 @@
 
 ## 🔥 Featured Projects
 
+### [🤖 Zenith NLP Framework](https://github.com/cattolatte/zenith-nlp-framework)
+> **ZenithNLP** is an advanced, from-scratch NLP framework built with PyTorch for training, fine-tuning, and deploying modern transformer-based models. It serves as a comprehensive toolkit for NLP practitioners and researchers, featuring a modular architecture and a full suite of MLOps capabilities.
+<p>
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Hydra-1.3-8A2BE2?style=for-the-badge&logo=hydra" alt="Hydra"/>
+    <img src="https://img.shields.io/badge/MLflow-2.5-00A6E0?style=for-the-badge&logo=mlflow" alt="MLflow"/>
+    <img src="https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge&logo=docker" alt="Docker"/>
+    <img src="https://img.shields.io/badge/FastAPI-0.104-009688?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Pytest-7.4-0A9B9B?style=for-the-badge&logo=pytest" alt="Pytest"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=github-actions" alt="GitHub Actions"/>
+</p>
+
+---
+
 ### [💬 NekoTomo Discord Bot](https://github.com/coderstale/nekotomo-bot)
 > A roleplay-ready Discord bot (as Ganyu from Genshin Impact 🐱), equipped with moderation, interactive responses, and auto features.
 <p>
